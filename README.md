@@ -33,9 +33,7 @@ IsAlone (1 if traveling alone, else 0)
 🔧 Requirements
 Install dependencies using pip:
 
-bash
-Copy
-Edit
+ 
 pip install pandas numpy scikit-learn matplotlib seaborn
 ▶️ How to Run
 Make sure main.py and tested.csv are in the same directory.
@@ -44,9 +42,7 @@ Open terminal or command prompt in that directory.
 
 Run the script:
 
-bash
-Copy
-Edit
+ 
 python main.py
 📈 Output
 Prints the model's accuracy score
